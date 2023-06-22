@@ -1,8 +1,8 @@
 function letterCombinations(input_digit) {
   //Complete the function
-   if (digits === "") {
-    return [];
-  }
+  //  if (digits === "") {
+  //   return [];
+  // }
   const mappings = {
     0: "0",
     1: "1",
